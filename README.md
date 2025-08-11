@@ -51,14 +51,9 @@ El repositorio está organizado en carpetas y archivos que cubren los siguientes
    npm install
    ```
 
-3. Compilar y ejecutar ejemplos:
+3. Puedes ejecutar en modo desarrollo con:
    ```bash
-   npx tsc && node dist/index.js
-   ```
-
-4. También puedes ejecutar en modo desarrollo con:
-   ```bash
-   npx ts-node src/ejemplo.ts
+   npm run dev
    ```
 
 ---
