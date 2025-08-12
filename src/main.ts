@@ -9,7 +9,8 @@ import './style.css'
 // import './topics/07-import-export-modulos';
 // import './topics/08-clases';
 // import './topics/09-genericos';
-import './topics/10-decoradores';
+// import './topics/10-decoradores';
+import './topics/11-encadenamiento-opcional';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
