@@ -8,7 +8,8 @@ import './style.css'
 // import './topics/06-functions-destructuracion';
 // import './topics/07-import-export-modulos';
 // import './topics/08-clases';
-import './topics/09-genericos';
+// import './topics/09-genericos';
+import './topics/10-decoradores';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
