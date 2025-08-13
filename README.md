@@ -42,6 +42,7 @@ npm install
 
 # 3. Inicia el servidor de desarrollo
 npm run dev
+```
 
 ¡Listo! Abre tu navegador en `http://localhost:5173` y comienza a aprender.
 
