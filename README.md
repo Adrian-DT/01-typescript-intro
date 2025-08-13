@@ -1,17 +1,19 @@
-```markdown
-# 🚀 TypeScript Introduction - Guía Práctica Completa
-
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-**Aprende TypeScript desde cero con ejemplos prácticos y ejercicios interactivos**
+<p><strong>Aprende TypeScript desde cero con ejemplos prácticos y ejercicios interactivos</strong></p>
 
-[🎯 Comenzar](#-instalación-rápida) • [📚 Contenido](#-roadmap-de-aprendizaje) • [🔧 Configuración](#-configuración-del-entorno)
+<p>
+<a href="#-instalación-rápida">🎯 Comenzar</a> • 
+<a href="#-roadmap-de-aprendizaje">📚 Contenido</a> • 
+<a href="#-configuración-del-entorno">🔧 Configuración</a>
+</p>
 
 </div>
+
 
 ---
 
@@ -40,7 +42,6 @@ npm install
 
 # 3. Inicia el servidor de desarrollo
 npm run dev
-```
 
 ¡Listo! Abre tu navegador en `http://localhost:5173` y comienza a aprender.
 
